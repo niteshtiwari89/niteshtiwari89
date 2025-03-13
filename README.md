@@ -58,6 +58,9 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niteshtiwari89&show_icons=true&locale=en&layout=compact" alt="niteshtiwari89" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niteshtiwari89&show_icons=true&locale=en" alt="niteshtiwari89" /></p>
+<img src="https://raw.githubusercontent.com/niteshtiwari89/niteshtiwari89/output/snake.svg" alt="Snake animation" />
+
+###
 -->
 
 
@@ -127,9 +130,6 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/niteshtiwari89/niteshtiwari89/output/snake.svg" alt="Snake animation" />
-
-###
 
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZtM3A3YXVibXJqZ2ZkMW0yemtqMGhhY20xcTBvajkwOGVnNXNubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CkzASXWphfkQ5CF6ny/giphy.gif"  />
 
