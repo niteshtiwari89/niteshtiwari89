@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshtiwari89&label=Profile%20views&color=0e75b6&style=flat" alt="niteshtiwari89" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niteshtiwari89" alt="niteshtiwari89" /></a> </p>
 -->
 
 
@@ -21,9 +24,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nitesh Tiwari</h1>
 <h3 align="center">Passionate MERN Stack Developer | Creating Dynamic and Scalable Web Apps</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshtiwari89&label=Profile%20views&color=0e75b6&style=flat" alt="niteshtiwari89" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niteshtiwari89" alt="niteshtiwari89" /></a> </p>
 
 - 🔭 I’m currently working on **Various projects using the MERN stack, React, and Vue.js.**
 
