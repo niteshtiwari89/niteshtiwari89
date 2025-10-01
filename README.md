@@ -147,7 +147,7 @@ Here are some ideas to get you started:
 <br clear="both">
 
   
-<img width="100%" height="300" src="./Error.gif"  />
+<img width="100%" src="./Error.gif"  />
 
 ###
 
