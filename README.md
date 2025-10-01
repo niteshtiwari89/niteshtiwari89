@@ -144,4 +144,10 @@ Here are some ideas to get you started:
  <img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZtM3A3YXVibXJqZ2ZkMW0yemtqMGhhY20xcTBvajkwOGVnNXNubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CkzASXWphfkQ5CF6ny/giphy.gif"  /> 
 
 ###
+<br clear="both">
+
+  
+<img align="left" height="300" src="./Error.gif"  />
+
+###
 
