@@ -108,6 +108,15 @@ const nitesh = {
 
 ---
 
+## 🎨 Vibes
+
+<img align="left" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9zazNjbnV2azNxeG44a3VodDVtbzVtY29sajk2NG9kbXc2ajB3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NFekgiVenzohC170MF/giphy.gif" />
+<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZtM3A3YXVibXJqZ2ZkMW0yemtqMGhhY20xcTBvajkwOGVnNXNubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CkzASXWphfkQ5CF6ny/giphy.gif" />
+
+<br clear="both" />
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
