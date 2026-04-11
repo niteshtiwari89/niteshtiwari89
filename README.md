@@ -84,10 +84,15 @@ const nitesh = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niteshtiwari89&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+![Commits](https://img.shields.io/badge/Total%20Commits-500%2B-brightgreen?style=for-the-badge&logo=git&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-20%2B-blue?style=for-the-badge&logo=github&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-orange?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Stack](https://img.shields.io/badge/Stack-MERN-blueviolet?style=for-the-badge&logo=mongodb&logoColor=white)
+
 </div>
 
 ---
